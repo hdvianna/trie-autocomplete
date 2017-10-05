@@ -1,0 +1,29 @@
+[Project]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\DevC\devTrie.dev
+Name=devTrie
+Use_gpp=0
+UnitCount=7
+ResFiles=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\DevC\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Program Files\Dev C++\Bin\Mainicon.ico
+[Unit1]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\arquivo.cpp
+[Unit2]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\arquivo.h
+FileTime=795325541
+[Unit3]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\interface.cpp
+FileTime=796178274
+[Unit4]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\interface.h
+FileTime=795325686
+[Unit5]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\main.cpp
+FileTime=795326059
+[Unit6]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\trie.cpp
+FileTime=796239274
+[Unit7]
+FileName=D:\Vianna\Facul\3o Semestre\Estrutura de Dados II\Fontes\Trie\trie.h
+FileTime=795043170
